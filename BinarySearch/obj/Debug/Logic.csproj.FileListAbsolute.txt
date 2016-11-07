@@ -1,0 +1,4 @@
+C:\Users\Андрей\Desktop\Day1\NET.W.2016.01.Bulavsky.01\BinarySearch\obj\Debug\BinarySearch.dll
+C:\Users\Андрей\Desktop\Day1\NET.W.2016.01.Bulavsky.01\BinarySearch\obj\Debug\BinarySearch.pdb
+C:\Users\Андрей\Desktop\Day1\NET.W.2016.01.Bulavsky.01\BinarySearch\bin\Debug\BinarySearch.dll
+C:\Users\Андрей\Desktop\Day1\NET.W.2016.01.Bulavsky.01\BinarySearch\bin\Debug\BinarySearch.pdb

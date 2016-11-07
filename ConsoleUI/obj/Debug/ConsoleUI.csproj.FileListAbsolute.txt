@@ -1,0 +1,14 @@
+C:\Users\Андрей\Desktop\Day1\NET.W.2016.01.Bulavsky.01\ConsoleUI\obj\Debug\ConsoleUI.csprojResolveAssemblyReference.cache
+C:\Users\Андрей\Desktop\Day1\NET.W.2016.01.Bulavsky.01\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\Андрей\Desktop\Day1\NET.W.2016.01.Bulavsky.01\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\Андрей\Desktop\Day1\NET.W.2016.01.Bulavsky.01\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\Андрей\Desktop\Day1\NET.W.2016.01.Bulavsky.01\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\Андрей\Desktop\Day1\NET.W.2016.01.Bulavsky.01\ConsoleUI\obj\Debug\ConsoleUI.pdb
+C:\Users\Андрей\Desktop\Day1\NET.W.2016.01.Bulavsky.01\ConsoleUI\bin\Debug\LogicS.dll
+C:\Users\Андрей\Desktop\Day1\NET.W.2016.01.Bulavsky.01\ConsoleUI\bin\Debug\LogicS.pdb
+C:\Users\User\Desktop\EPAM\Day1\NET.W.2016.01.Bulavsky.01\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\User\Desktop\EPAM\Day1\NET.W.2016.01.Bulavsky.01\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\User\Desktop\EPAM\Day1\NET.W.2016.01.Bulavsky.01\ConsoleUI\obj\Debug\ConsoleUI.pdb
+D:\EPAM\NET.W.2016.01.Bulavsky.01\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+D:\EPAM\NET.W.2016.01.Bulavsky.01\ConsoleUI\obj\Debug\ConsoleUI.exe
+D:\EPAM\NET.W.2016.01.Bulavsky.01\ConsoleUI\obj\Debug\ConsoleUI.pdb

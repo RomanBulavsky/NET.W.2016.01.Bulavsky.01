@@ -1,0 +1,4 @@
+C:\Users\Андрей\Desktop\Day1\NET.W.2016.01.Bulavsky.01\LogicS\bin\Debug\LogicS.dll
+C:\Users\Андрей\Desktop\Day1\NET.W.2016.01.Bulavsky.01\LogicS\bin\Debug\LogicS.pdb
+C:\Users\Андрей\Desktop\Day1\NET.W.2016.01.Bulavsky.01\LogicS\obj\Debug\LogicS.dll
+C:\Users\Андрей\Desktop\Day1\NET.W.2016.01.Bulavsky.01\LogicS\obj\Debug\LogicS.pdb
